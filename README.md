@@ -140,5 +140,3 @@ Have questions or feedback?
 
 * GitHub: [abdulrahman-software](https://github.com/abdulrahman-software)
 * Email: abdulrahman.dev@hotmail.com
-
-```
