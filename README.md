@@ -139,7 +139,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 Have questions or feedback?
 
 * GitHub: [abdulrahman-software](https://github.com/abdulrahman-software)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: abdulrahman.dev@hotmail.com
 
 ```
 
