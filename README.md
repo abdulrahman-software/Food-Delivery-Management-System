@@ -142,8 +142,3 @@ Have questions or feedback?
 * Email: abdulrahman.dev@hotmail.com
 
 ```
-
----
-
-Let me know if you’d like help creating the ERD diagram, `.env` templates, or deployment instructions for Heroku, Vercel, etc.
-```
