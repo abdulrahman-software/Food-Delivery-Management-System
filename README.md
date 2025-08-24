@@ -1,5 +1,5 @@
 
-# 🍽️ Restaurant-Connect
+# 🍽️ Food Delievery Management System
 
 A full-stack web application that bridges the gap between restaurants and customers by offering a seamless digital interaction platform. This project was built to showcase modern web development practices, combining a dynamic frontend with a robust backend and efficient data management.
 
